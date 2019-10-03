@@ -5,6 +5,9 @@ test test
 You can use the [editor on GitHub](https://github.com/RaySong513/RaySong513.github.io/edit/master/README.md) to maintain and preview the content for your sdfasdfasdfasdfe in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css"/>
+<script src="https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget/autoload.js"></script>
 
 ### Markdown
 
