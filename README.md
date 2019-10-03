@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css"/>
 <script src="https://cdn.jsdelivr.net/gh/RaySong513/live2d-widget/autoload.js"></script>
 
-## 版本號:0.1.3
+## 版本號:0.1.4
 ## Masdfjasdf
 ## jfsdjfas
 
