@@ -3,7 +3,7 @@
 ## 看板娘也會很高興地幫助大家呢
 <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css">
-<script src="https://github.com/RaySong513/live2d-widget/blob/master/autoload.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/Ray_Shimmer/live2d-widget/autoload.js"></script>
 ### Hello world!
 
 ```markdown
