@@ -3,7 +3,7 @@
 ## 看板娘也會很高興地幫助大家呢
 <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css">
-<script src="https://cdn.jsdelivr.net/gh/RaySong513/live2d-widget/autoload.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/RaySong513/live2d-widget/blob/master/autoload.js"></script>
 ### Hello world!
 
 ```markdown
@@ -17,8 +17,8 @@ int main()
 
 ```
 ## 博主的聯係方式：
-  QQ：981722819<p>
-  Twitter：@Ray_song513<p>
-  Instagram：ray_shimmer<p>
+  QQ：981722819
+  Twitter：@Ray_song513
+  Instagram：ray_shimmer
   
   
