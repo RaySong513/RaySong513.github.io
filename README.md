@@ -1,42 +1,24 @@
+## 版本號:demo（内容可能偏少，請見諒，後續會持續更新(●'◡'●)）
+## 歡迎來到我的github博客，喜歡的話可以點擊右上角的圖標訂閲我嚄
+## 看板娘也會很高興地幫助大家呢
 <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css">
 <script src="https://cdn.jsdelivr.net/gh/RaySong513/live2d-widget/autoload.js"></script>
-
-## 版本號:0.1.4
-## Masdfjasdf
-## jfsdjfas
-
-
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Hello world!
 
 ```markdown
-Syntax highlighted code block
+#include<bits/stdc++.h>
+using namespace std;
+int main()
+{
+	cout<<"Hello World!"<<endl;
+	return 0;
+ } 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RaySong513/RaySong513.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 博主的聯係方式：
+  QQ：981722819
+  Twitter：@Ray_song513
+  Instagram：ray_shimmer
+  
+  
