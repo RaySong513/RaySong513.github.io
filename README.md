@@ -2,8 +2,8 @@
 ## 歡迎來到我的github博客，喜歡的話可以點擊右上角的圖標訂閲我嚄
 ## 看板娘也會很高興地幫助大家呢
 <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css">
-<script src="https://cdn.jsdelivr.net/gh/Ray_Shimmer/live2d-widget/autoload.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css"/>
+<script src="https://cdn.jsdelivr.net/gh/RaySong513.github.io/live2d-widget/autoload.js"></script>
 ### Hello world!
 
 ```markdown
