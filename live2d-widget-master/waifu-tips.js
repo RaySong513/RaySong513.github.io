@@ -1,4 +1,4 @@
-/*
+﻿/*
  * https://imjad.cn/archives/lab/add-dynamic-poster-girl-with-live2d-to-your-blog-02
  * https://www.fghrsh.net/post/123.html
  */
@@ -63,7 +63,7 @@ function loadWidget(waifuPath, apiPath) {
 			showMessage("你都复制了些什么呀，转载要记得加上出处哦！", 6000, 9);
 		});
 		$(document).on("visibilitychange", () => {
-			if (!document.hidden) showMessage("哇，你终于回来了～", 6000, 9);
+			if (!document.hidden) showMessage("測試測試", 6000, 9);
 		});
 	}
 	registerEventListener();
